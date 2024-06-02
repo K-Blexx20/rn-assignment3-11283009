@@ -2,11 +2,13 @@
 
 Description:
 
-- Frame1: This component is likely responsible for rendering a specific frame or section of your app. The exact details would depend on how it’s implemented.
-- SearchBar: As the name suggests, this component is likely a search bar UI element. It allows users to input search queries and interact with search functionality within your app.
-- CategorySection: This component probably represents a section of your app where different categories or topics are displayed. It could be used for organizing content or navigation.
-- OngoingTask: This component might handle displaying information related to ongoing tasks or processes. It could show progress, status, or other relevant details.
+- Frame1: This component likely handles rendering a specific frame or section of your application. The exact functionality would depend on its implementation.
 
+SearchBar: As implied by the name, this component is likely a search bar UI element. It enables users to enter search queries and interact with the search functionality within your application.
+
+CategorySection: This component probably represents a section of your app that displays various categories or topics. It could be used for organizing content or facilitating navigation.
+
+OngoingTask: This component might be responsible for displaying information related to ongoing tasks or processes, such as progress, status, or other relevant details.
 
 Screenshot
 
